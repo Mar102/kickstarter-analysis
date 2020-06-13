@@ -7,6 +7,7 @@ Problem: Louise was estimating a budget of $10,000 for a fundraiser campaign and
 
 ### Challlenge
 Factors of a successful ones btw May-June Lauch date ;which is very much aligned with most fundraising campaigns in the NGO space december is the worst part of hte year. 
+![Timeline](![
 ![Launch Date](/Outcomes%20Based%20on%20Goal.PNG)
 Goal amount under %K is more successful; 
 Limitations
