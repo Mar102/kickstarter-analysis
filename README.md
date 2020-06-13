@@ -12,7 +12,7 @@ Based on the contious analysis, Louise now has more insight into factors that wi
 
 Additionally, campaigns are most succesful with a goal amount of under $5,000, which means Louise should revise her pledge goal given that her current plan is to set it to almost as twice as much. 
 
-Data limitations: Louise's data did not provide much data for camapigns over $15,000. If we had to analyze the higher end of pledges, having this limitation would have likely skewed our observations. 
+Data limitations & Additional Analysis: Louise's data did not provide much data for camapigns over $15,000. If we had to analyze the higher end of pledges, having this limitation would have likely skewed our observations. To look more closely into successful plays, we would need to contruct an additional chart with the measurs of central tendency and varience to further confirm our observations. 
 
 Figure 1 
 ![Timeline](/Outcomes%20Based%20on%20Launch%20Date.PNG)
