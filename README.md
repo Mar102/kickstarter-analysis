@@ -7,7 +7,7 @@ Problem: Louise was estimating a budget of $10,000 for a fundraiser campaign and
 
 ### Challlenge
 Factors of a successful ones btw May-June Lauch date ;which is very much aligned with most fundraising campaigns in the NGO space december is the worst part of hte year. 
-![Launch Date](/kickstarter-analysis/Outcomes Based on Goal.PNG)
+![Launch Date](/Outcomes%20Based%20on%20Goal.PNG)
 Goal amount under %K is more successful; 
 Limitations
 We didn't have much data to analyze campaigns with goals over $15,000. If we had to analyze bigger data, having this limitation would likely skew biases in favor of the smaller goal comapigns. 
